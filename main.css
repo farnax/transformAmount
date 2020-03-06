@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inner {
+  width: 400px;
+  margin: 100px;
+  padding: 50px;
+  font-size: 24px;
+  border: 3px solid #520066;
+  border-radius: 50px;
+}
+.input {
+  padding: 10px;
+  border: 1px solid #520066;
+  border-radius: 5px;
+  outline: none;
+}
+
+.button {
+  margin-left: 20%;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background: #a300cc;
+  border: 1px solid #520066;
+  border-radius: 10px;
+  color: #290033;
+  outline: none;
+}
+.text {
+  font-size: 19px;
+  font-weight: bold;
+  font-family: 'Times New Roman'
+}
+.title {
+  margin-bottom: 50px;
+  text-align: center;
+}
